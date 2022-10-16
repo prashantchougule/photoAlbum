@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Category></string>
+    <string name="source">Source></string>
+</resources>

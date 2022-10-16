@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Trish/Downloads/NewsApp-main/NewsApp-main/app/src/main/res/layout/fragment_news_list.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Trish/Downloads/NewsApp-main/PhotoAlbum-main/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Trish/Downloads/NewsApp-main/PhotoAlbum-main/app/src/main/res/layout/album_card.xml" value="0.536" />
+        <entry key="..\:/Users/Trish/Downloads/NewsApp-main/PhotoAlbum-main/app/src/main/res/layout/fragment_albums_list.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Trish/Downloads/NewsApp-main/PhotoAlbum-main/app/src/main/res/layout/fragment_news_details.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Trish/Downloads/NewsApp-main/PhotoAlbum-main/app/src/main/res/layout/fragment_news_list.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Trish/Downloads/NewsApp-main/PhotoAlbum-main/app/src/main/res/layout/news_card.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Trish/workspace/NewsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Trish/workspace/NewsApp/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.1" />
+        <entry key="..\:/Users/Trish/workspace/NewsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Trish/workspace/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Trish/workspace/NewsApp/app/src/main/res/layout/fragment_news_details.xml" value="0.136" />
+        <entry key="..\:/Users/Trish/workspace/NewsApp/app/src/main/res/layout/fragment_news_list.xml" value="0.22671009771986972" />
+        <entry key="..\:/Users/Trish/workspace/NewsApp/app/src/main/res/layout/news_card.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
